@@ -1,3 +1,5 @@
 add and remove users
 change the roles
 
+create an avator for user
+login and logout
