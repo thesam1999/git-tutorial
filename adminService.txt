@@ -1,10 +1,7 @@
 add and remove users
 change the roles
-<<<<<<< HEAD
-
-create an avator for user
-login and logout
-=======
 manage the database
 closing the connection
->>>>>>> feature2
+
+change 1
+change 2
